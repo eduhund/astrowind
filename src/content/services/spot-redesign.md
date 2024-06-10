@@ -58,7 +58,7 @@ works:
         alt: Electronica logo
         text: Перепроектировали UX ключевых страниц к отраслевой выставке.
     -
-        link: https://sobakapav.ru/portfolio/
+        link: https://sobakapav.ru/portfolio/tinkoff
         image: /images/services/spot-redesign/logo-t.png
         alt: Tinkoff logo
         text: Нужно описание
