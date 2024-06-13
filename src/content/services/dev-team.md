@@ -45,7 +45,7 @@ works:
         alt: Kompel logo
         text: Начали с конкретного проекта, а потом перешли на режим постоянного присутствия в команде.
     -
-        link: https://sobakapav.ru/portfolio/microcases/Humans
+        link: https://sobakapav.ru/microcases/Humans
         image: /images/services/dev-team/logo-humans.png
         alt: Humans logo
         text: Усилили команду штатных дизайнеров, чтобы ускорить производство дизайна.   
@@ -66,7 +66,7 @@ works:
         text: Нужно описание  
     -
         link: https://sobakapav.ru/microcases/Otkritie
-        image: /images/services/dev-team/ogo-otkrytie.png
+        image: /images/services/dev-team/logo-otkrytie.png
         alt: Otkrytie logo
         text: Усилив экспертизу штатной команды UX-специалистов привели банк-клиент в соответствие отраслевым стандартом.
 team: 1        

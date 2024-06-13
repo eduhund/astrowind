@@ -76,7 +76,7 @@ works:
         alt: russpass logo
         text: Провели продуктовое исследование и усилили штатнуюкоманду дизайнеров.
     -
-        link: https://sobakapav.ru/portfolio/
+        link: https://sobakapav.ru/microcases/Space307
         image: /images/services/product-research/logo-space307.png
         alt: space307 logo
         text: Нужно описание.
