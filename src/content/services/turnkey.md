@@ -88,7 +88,7 @@ works:
         link: https://sobakapav.ru/portfolio/tis
         image: /images/services/turnkey/logo-tis.png
         alt: TIS logo
-        text: заказчик получил сверстанный интерактивный прототип системы, протестированный врачами и позволяющий презентовать продукт еще на стадии разработки.
+        text: Заказчик получил сверстанный интерактивный прототип системы, протестированный врачами и позволяющий презентовать продукт еще на стадии разработки.
     -
         link: https://sobakapav.ru/portfolio/veza
         image: /images/services/turnkey/logo-veza.png

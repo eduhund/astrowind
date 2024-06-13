@@ -25,8 +25,8 @@ results:
         text: Вместе с библиотекой UI-элементов для дальнейшего развития
     -
         image: /images/services/moodboard.svg
-        alt: Moodboard
-        title: Мудборд
+        alt: Mood board
+        title: Mood board
         text: По стилевым предпочтениям
     -
         image: /images/services/dialog.svg
